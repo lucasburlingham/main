@@ -28,7 +28,7 @@ make install
 make run
 ```
 
-or 
+or
 
 ```bash
 cd src
