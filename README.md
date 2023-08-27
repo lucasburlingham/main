@@ -17,6 +17,8 @@ Measures the uptime of your internet connection and displays it in a simple way.
 ### Install
 
 ```bash
+git clone https://github.com/lucasburlingham/uptime-counter
+cd uptime-counter
 make install
 ```
 
